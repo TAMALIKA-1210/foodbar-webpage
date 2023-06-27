@@ -1,0 +1,55 @@
+.listmenu{
+    display: flex;
+    flex-direction: column;
+    background: #2b2b2b;
+    align-items: center;
+    width: 183px;
+    height: 183px;
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 60px;
+    justify-content: space-between;
+    margin-left: -100px;
+    
+} 
+.Prawn{
+    margin-top: -50px;
+    position: relative;
+    width: 210px;
+    top: 0px;
+    left: -90px;
+    
+}
+.topcomp{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dollar{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 12px;
+    margin-left: -75px;
+    gap: 24px;
+
+}
+.listmenu h1{
+    font-family: 'Ubuntu', sans-serif;
+    color:white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -10px;
+}
+.alldishes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
